@@ -3,10 +3,10 @@ CloudShare: A Full-Stack File Management System ☁️
 CloudShare is a professional-grade web application that allows users to securely upload, manage, and share files. This project was built to demonstrate a modern full-stack development workflow and mastery of key technologies.
 
 Screenshots
-<img width="1896" height="903" alt="Screenshot 2025-08-20 154010" src="https://github.com/user-attachments/assets/cloud" />
 
-<img width="1892" height="909" alt="Screenshot 2025-08-20 154056" src="https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6" />
-<img width="1892" height="883" alt="Screenshot 2025-08-20 154025" src="https://github.com/user-attachments/assets/65f1a406-f816-4c4e-9f22-123e6d4378b4" />
+![cloud](https://github.com/user-attachments/assets/a1687a63-b3fa-431f-b71b-7946b461026f)
+![cloud1](https://github.com/user-attachments/assets/469cbdee-de92-45dd-8b26-09468ae074a4)
+
 
 
 ## 🚀 Features  
