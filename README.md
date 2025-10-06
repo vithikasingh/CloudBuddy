@@ -1,6 +1,6 @@
 
-CloudBuddy: A Full-Stack File Management System ☁️
-CloudBuddy is a professional-grade web application that allows users to securely upload, manage, and share files. This project was built to demonstrate a modern full-stack development workflow and mastery of key technologies.
+CloudShare: A Full-Stack File Management System ☁️
+CloudShare is a professional-grade web application that allows users to securely upload, manage, and share files. This project was built to demonstrate a modern full-stack development workflow and mastery of key technologies.
 
 Screenshots
 
